@@ -300,3 +300,17 @@ As the pipeline is still in development, we recognise that there are some caveat
 
 * Unique jobIDs to avoid overwriting files - done!
 * Metrics obtained from Gadi log files (summarized in first part of compute resources used) have no direct link to PBS files (containing per task compute resource requirements)
+
+# Acknowledge us
+
+__ Suggested acknowledgement:__
+ The authors acknowledge the scientific and technical assistance
+ <or e.g. bioinformatics assistance of <PERSON>> of Sydney Informatics
+ Hub and resources and services from the National Computational
+ Infrastructure (NCI), which is supported by the Australian Government
+ with access facilitated by the University of Sydney.
+
+# Contact us
+
+If you would like bioinformatics assistance or support (e.g. preparing your NCMAS application), please contact sih.info@sydney.edu.au.
+
