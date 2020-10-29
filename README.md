@@ -1,5 +1,6 @@
 # BioCommons-Canu-Metrics
-Collect compute usage metrics from NCI Gadi BioCommons Canu Workflow
+
+Collect compute usage metrics from NCI Gadi BioCommons Canu Workflow. This workflow is specifically optimised for NCI Gadi infrastructure and can be found here: https://github.com/AustralianBioCommons/Canu/blob/master/NCI_optimisation.md
 
 # Usage
 
@@ -303,7 +304,7 @@ As the pipeline is still in development, we recognise that there are some caveat
 
 # Acknowledge us
 
-__ Suggested acknowledgement:__
+ ## Suggested acknowledgement
  The authors acknowledge the scientific and technical assistance
  <or e.g. bioinformatics assistance of <PERSON>> of Sydney Informatics
  Hub and resources and services from the National Computational
